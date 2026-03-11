@@ -1,5 +1,5 @@
 <h1 align="center">Jabir Nahari 👋</h1>
-<h3 align="center">Computer Science Engineer | IoT & AI Systems | Full-Stack Web Developer</h3>
+<h3 align="center">Computer Science & Engineer | IoT & AI Systems | Full-Stack Web Developer</h3>
 
 <div align="center">
   <a href="mailto:Jabir.Nahari@outlook.com">
@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 
-[cite_start]I am a Computer Science engineering graduate from King Fahd University of Petroleum and Minerals (KFUPM)[cite: 8]. [cite_start]My engineering focus spans Artificial Intelligence, Big Data [cite: 72][cite_start], and full-stack web development[cite: 5]. I specialize in bridging software algorithms with physical hardware to build robust, scalable systems that operate reliably in real-world constraints.
+I am a Computer Science engineering graduate from King Fahd University of Petroleum and Minerals (KFUPM). My engineering focus spans Artificial Intelligence, Big Data, and full-stack web development. I specialize in bridging software algorithms with physical hardware to build robust, scalable systems that operate reliably in real-world constraints.
 
 ### 🎯 Core Focus Areas
 
-- [cite_start]**IoT & Embedded Systems:** Designing modular hardware architectures [cite: 80] [cite_start]and integrating sensors for industrial environments using protocols like I²C and 1-Wire[cite: 74].
-- [cite_start]**Artificial Intelligence:** Implementing AI-at-the-edge [cite: 81] [cite_start]and processing high-dimensional data streams for predictive modeling[cite: 85].
-- [cite_start]**Web Development:** Architecting full-stack applications [cite: 5][cite_start], optimizing interactive navigation platforms [cite: 16][cite_start], and dramatically reducing backend performance delays[cite: 18]. 
+- **IoT & Embedded Systems:** Designing modular hardware architectures and integrating sensors for industrial environments using protocols like I²C and 1-Wire.
+- **Artificial Intelligence:** Implementing AI-at-the-edge and processing high-dimensional data streams for predictive modeling.
+- **Web Development:** Architecting full-stack applications, optimizing interactive navigation platforms, and dramatically reducing backend performance delays. 
 
 ---
 
@@ -61,19 +61,19 @@
 
 ### 🏗️ InnoMineX | *Tech Lead*
 * **Focus:** Industrial IoT & System Architecture
-* [cite_start]Architected a modular "Configurable Edge" intelligence ecosystem using a Raspberry Pi 5 and integrated environmental sensors (SCD40, DS18B20)[cite: 74].
+* Architected a modular "Configurable Edge" intelligence ecosystem using a Raspberry Pi 5 and integrated environmental sensors (SCD40, DS18B20).
 * Developed the backend logic using Python, FastAPI, and PostgreSQL to process sensor telemetry into a real-time risk dashboard.
 
 ### ⚡ Nearmotion Web Optimization | *Software Engineer*
 * **Focus:** Full-Stack Web Development & Performance
-* [cite_start]Participated in the design and development of interactive indoor mapping solutions across 3 distinct websites[cite: 16].
-* [cite_start]Repaired over 100 code issues, successfully reducing website loading delays by over 10 seconds[cite: 18].
-* [cite_start]Established stringent version control management utilizing Git and GitHub [cite: 23] [cite_start]and automated workflows to reduce logistical friction[cite: 24].
+* Participated in the design and development of interactive indoor mapping solutions across 3 distinct websites.
+* Repaired over 100 code issues, successfully reducing website loading delays by over 10 seconds.
+* Established stringent version control management utilizing Git and GitHub and automated workflows to reduce logistical friction.
 
 ### 🌡️ Automated Insulin Pump | *Senior Capstone Project*
 * **Focus:** Hardware Integration & Environmental Constraints
-* [cite_start]Co-developed a medical device specifically adapted for the extreme temperatures of the Arabian climate[cite: 74].
-* [cite_start]Engineered the hardware integration using an ADS1115 ADC to precisely monitor data and trigger the appropriate software logic[cite: 8].
+* Co-developed a medical device specifically adapted for the extreme temperatures of the Arabian climate.
+* Engineered the hardware integration using an ADS1115 ADC to precisely monitor data and trigger the appropriate software logic.
 
 ---
 
